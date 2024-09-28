@@ -1,6 +1,6 @@
 {
   "name": "qriosity",
-  "module": "index.ts",
+  "module": "index.mjs",
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
